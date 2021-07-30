@@ -1,3 +1,7 @@
 theme: minima
 title: Test Project Page
 description: A template to create project pages
+
+header_pages:
+  - about.md
+  - results.md
