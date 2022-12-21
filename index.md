@@ -2,17 +2,6 @@
 layout: default
 ---
 
-.button {
-  background-color: red;
-  color: white;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
-<a href="https://kaustubh-sadekar.github.io/Stereo-Cam-Lib" class="button">About</a>
-
 # About
 
 This project is based on [PyTorch](https://pytorch.org).
