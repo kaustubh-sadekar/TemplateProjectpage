@@ -8,4 +8,4 @@ description: A template to create project pages
 
 header_pages:
   - title: Home
-  - url: https://kaustubh-sadekar.github.io/ 
+    url: https://kaustubh-sadekar.github.io
