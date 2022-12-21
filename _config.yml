@@ -5,7 +5,3 @@ description: A template to create project pages
 # header_pages:
 #   - about.md
 #   - results.md
-
-navigation:
-  - title: Home
-    url: https://kaustubh-sadekar.github.io
