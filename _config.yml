@@ -6,6 +6,6 @@ description: A template to create project pages
 #   - about.md
 #   - results.md
 
-navigation:
+header_pages:
   - title: Home
   - url: https://kaustubh-sadekar.github.io/ 
